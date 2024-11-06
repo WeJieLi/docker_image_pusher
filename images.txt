@@ -1,5 +1,5 @@
-nginx
 #支持私库
+redis:6.2-alpine
 immich-app/immich-server:release
 immich-app/immich-machine-learning:release
 #支持指定架构
