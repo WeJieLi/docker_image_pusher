@@ -1,2 +1,2 @@
 #支持私库
-homeassistant/home-assistant:stable
+ionewu/owjdxb
