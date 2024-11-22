@@ -1,1 +1,3 @@
-6053537/portainer-ce
+emby/embyserver:latest
+kasmweb/qbittorrent
+easychen/cookiecloud:latest
