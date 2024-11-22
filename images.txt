@@ -1,2 +1,1 @@
-#支持私库
-ionewu/owjdxb
+emby/embyserver:latest
