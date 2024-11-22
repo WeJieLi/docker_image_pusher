@@ -1,1 +1,1 @@
-emby/embyserver:latest
+portainer/portainer-ee:2.21.4
