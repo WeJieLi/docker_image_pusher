@@ -1,3 +1,1 @@
-emby/embyserver:latest
-kasmweb/qbittorrent:1.16.0
-easychen/cookiecloud:latest
+linuxserver/qbittorrent
