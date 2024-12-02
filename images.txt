@@ -1,1 +1,1 @@
-linuxserver/qbittorrent
+stirlingtools/stirling-pdf:latest
