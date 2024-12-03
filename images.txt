@@ -1,1 +1,1 @@
-stirlingtools/stirling-pdf:latest
+jxxghp/moviepilot-v2:latest
