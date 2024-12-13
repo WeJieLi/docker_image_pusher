@@ -1,1 +1,1 @@
-ddsderek/wxchat:latest
+wxhere/bitcomet:latest
