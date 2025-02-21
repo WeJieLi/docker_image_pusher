@@ -1,1 +1,1 @@
-xhofe/alist:latest
+dr34m/tao-sync:latest
